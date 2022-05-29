@@ -1,2 +1,2 @@
 # Hurma
-Это мой первый пробный код. Ура!
+This is my first code!
